@@ -24,7 +24,7 @@ const songs = [
     },
     {
         name: 'monkey',
-        displayName: 'Dnace Mokey',
+        displayName: 'Dance Monkey',
         artist: 'Tones and I',
     },
     {

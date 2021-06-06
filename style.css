@@ -127,3 +127,27 @@ h3 {
     left: 100px;
   }
 }
+
+@media screen and (max-width: 600px) {
+  .player-container {
+    width: 95vw;
+  }
+
+  .img-container {
+    left: 29px;
+  }
+
+  h2 {
+    font-size: 20px;
+  }
+
+  h3 {
+    font-size: 15px;
+  }
+
+  .player-controls {
+    top: -10px;
+    left: 100px;
+  }
+}
+
